@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/netas/jiratodocx/dto/JiraUseCaseQuerySearchResultDTO.java=UTF-8
+encoding//src/main/java/com/netas/jiratodocx/service/AddImageToDocxDocuments.java=UTF-8
+encoding//src/main/java/com/netas/jiratodocx/service/CreateFunctionalRequirements.java=UTF-8
+encoding//src/main/java/com/netas/jiratodocx/service/CreateTSMDescriptions.java=UTF-8
+encoding//src/main/java/com/netas/jiratodocx/service/DocxConverterService.java=UTF-8
+encoding//src/main/java/com/netas/jiratodocx/service/FillTemplateDocx.java=UTF-8
+encoding//src/main/java/com/netas/jiratodocx/service/ParserService.java=UTF-8
+encoding//src/main/java/com/netas/jiratodocx/service/TurkishCharacterFixService.java=UTF-8
